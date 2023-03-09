@@ -11,7 +11,7 @@ public class OopsConcept {
        }
        else{
            System.out.println(n);
-           Multipleprint(n+1);
+           Multipleprint(bbb+1);
        }
    }
 
